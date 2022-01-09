@@ -1,4 +1,4 @@
-# Platformer in x86-Assembly
+# Platformer in x86-64 Assembly
 My painful attempt at learning assembly (Intel syntax). God help me.
 
 ## Building
